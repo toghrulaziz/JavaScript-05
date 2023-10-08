@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+
+
+div{
+    position: absolute;
+}
+
+
+#div1 {
+    background-color: darkgreen;
+    top: 100px;
+    left: 200px;
+    height: 200px;
+    width: 200px;
+}
+
+#div2 {
+    background-color: darkmagenta;
+    top: 100px;
+    left: 450px;
+    height: 200px;
+    width: 200px;
+}
+
+#div3 {
+    background-color: darkblue;
+    top: 100px;
+    left: 700px;
+    height: 200px;
+    width: 200px;
+}
+
